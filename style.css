@@ -6,10 +6,12 @@ body{
 h1{
     font-size: 40px;
 }
+
 .header{
     display: flex;
     background-image: url(images/top-banner.png);
     background-repeat: no-repeat;
+    margin-bottom: 50px;
 }
 .half-width{
     width: 50%;
@@ -28,3 +30,11 @@ h1{
     border: 2px solid white;
     
 }
+.bbody{
+    display: flex;
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+    
+}
+    
